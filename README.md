@@ -1,9 +1,9 @@
-# Mooban Technical support
+# Mooban App Technical Support
 
-Welcome to use this App.
+Welcome to Mooban (Pet Social App).
 
-If you have any functional suggestions or issue feedback, please contact us at the email address:
+Thank you for using Mooban Pet Social App. If you encounter any problems, functional abnormalities during use, or have relevant suggestions and feedback, please feel free to contact us through the following methods, and we will handle and reply to you as soon as possible.
 
-YDLIN527@qq.com
+📩 Contact Email: YDLIN527@qq.com
 
-I will handle it as soon as possible and reply.
+We will respond to your questions and suggestions as soon as possible.
